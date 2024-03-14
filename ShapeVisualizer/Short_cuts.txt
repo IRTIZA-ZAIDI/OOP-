@@ -1,0 +1,5 @@
+press s for save
+press o for open
+press r for redo
+press u for undo
+press n for new 
